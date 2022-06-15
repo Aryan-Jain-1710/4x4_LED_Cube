@@ -1,4 +1,4 @@
-# Project-JJ-LED-Cube-4x4
+# 4x4 LED CUBE
 
 - Designed and developed in 2019.
 - Programming language - C/C++ 
