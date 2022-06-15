@@ -1,7 +1,7 @@
 # 4x4x4 LED CUBE
 
 
-This repository consists of the code for a progammable 4x4 LED CUBE, it contains the sketch of top view of the Cube for reference and two videos showing the functioning of the LED Cube. The progamming languages used are C/C++ 
+This repository consists of the code for a progammable 4x4x4 LED CUBE, it contains the sketch of top view of the Cube for reference and two videos showing the functioning of the LED Cube. The progamming languages used are C/C++ 
 
 
 ## Setup
