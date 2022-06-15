@@ -25,8 +25,12 @@
     c-A2            1
     d-A3            0
 */
-int layer[4] = {A3, A2, A1, A0}; //initializing and declaring led layers
-int column[16] = {13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, A5, A4}; //initializing and declaring led columns
+
+//initializing and declaring led layers
+int layer[4] = {A3, A2, A1, A0}; 
+
+//initializing and declaring led columns
+int column[16] = {13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, A5, A4}; 
 
 void setup() {
   // put your setup code here, to run once:
@@ -53,6 +57,8 @@ void loop() {
   raining();
 }
 
+
+
 // Turns every LED on
 void turnOn() {
   for (int i = 0; i < 16; i++) {
@@ -62,6 +68,8 @@ void turnOn() {
     digitalWrite(layer[i], HIGH);
   }
 }
+
+
 
 // Turns every LED off
 void turnOff() {
@@ -73,7 +81,10 @@ void turnOff() {
   }
 }
 
+
+
 // Siddhartha's Work
+
 // Flickers the LEDs
 void flicker() {
   turnOff();
@@ -107,8 +118,12 @@ void randomLED() {
   }
 }
 
-// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
 // Aryan's Work
+
+// Raining by column pattern
 void raining() {
   int dropDelay = 100;
 
