@@ -6,7 +6,7 @@ This repository consists of the code for a progammable 4x4x4 LED CUBE, it contai
 
 ## Setup
 
-The setting up involved starting from scratch and personally soldering each layer of the Cube. Next step involeded soldering resistors and transistors to the breadbord and linking the cube structure to the breadboard.
+The setting up involved starting from scratch and personally soldering each layer of the Cube. Next step involved soldering resistors and transistors to the breadbord and linking the cube structure to the breadboard.
 
 
 ## Program and Methods
