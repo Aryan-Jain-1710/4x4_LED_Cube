@@ -27,11 +27,3 @@ This cube can be of assistance while teaching Maths and Physics by helping in 3-
 
 The reference for the cube structure, the starter code and the sketch is https://www.instructables.com/4x4x4-LED-Cube-Arduino-Uno/
 
-
-## 4x4x4 LED Cube Videos
-
-https://user-images.githubusercontent.com/52525883/173869754-d03e15ee-8a4f-403d-bc54-a78f5d506a1c.mp4
-
-
-https://user-images.githubusercontent.com/52525883/173869758-5fe3875a-13bb-42d0-b982-a81e5f0bf3ef.mp4
-
