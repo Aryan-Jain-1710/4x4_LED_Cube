@@ -1,29 +1,46 @@
 # 4x4x4 LED CUBE
 
+This project is a programmable 4x4x4 LED CUBE. It is a 3-D LED display that can be programmed to display various patterns. 
 
-This repository consists of the code for a progammable 4x4x4 LED CUBE, it contains the sketch of top view of the Cube for reference and two videos showing the functioning of the LED Cube. The progamming languages used are C/C++. This project was in collboration with Siddharatha Jaiswal.
+
+## Table of Contents
+- [Purpose](#purpose)
+- [Project Overview](#project-overview)
+- [Setup](#setup)
+- [Program and Methods](#program-and-methods)
+- [Applications](#applications)
+- [References](#references)
+
+
+## Purpose
+I created this project as part of the annual science symposium in junior year of high school. I wanted to create something that would be useful in teaching Maths and Physics. After some research, I decided to create a programmable LED Cube which would combine my interest in programming with a new experience of using hardware. 
+
+
+## Project Overview
+- The cube is made up of 64 LEDs arranged in a 4x4x4 matrix. 
+- The cube is programmed using Arduino Uno. 
+- The cube can be programmed to display various patterns like flickering, raining, etc. 
+- The cube can be used to display 3-D graphs, etc. 
+- The cube is programmed using C/C++.
 
 
 ## Setup
-
-The setting up involved starting from scratch and personally soldering each layer of the Cube. Next step involved soldering resistors and transistors to the breadbord and linking the cube structure to the breadboard.
+- The setting up involved starting from scratch and personally soldering each layer of the Cube. 
+- Next step involved soldering resistors and transistors to the breadbord and linking the cube structure to the breadboard.
 
 
 ## Program and Methods
-
 The code has three methods that display different patterns: flicker(), randomLED(), raining()
-
 - flicker() displays LEDs but flickers them and decreases the interval time of the flickering.
 - randomLED() turns on single LED randomly
 - raining() turns on LEDs from specific columns one by one
 
 
 ## Applications
-
 This cube can be of assistance while teaching Maths and Physics by helping in 3-D display of graphs in 3 axes, or difference between various waves, etc.
 
 
 ## References
-
 The reference for the cube structure, the starter code and the sketch is https://www.instructables.com/4x4x4-LED-Cube-Arduino-Uno/
 
+## Project Video
