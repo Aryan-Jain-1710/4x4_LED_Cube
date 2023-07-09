@@ -45,5 +45,9 @@ The reference for the cube structure, the starter code and the sketch is https:/
 
 ## Project Video
 
+https://github.com/Aryan-Jain-1710/LED-Cube/assets/52525883/1236c952-3ff2-40e3-ad38-b45caeb943dc
+
+https://github.com/Aryan-Jain-1710/LED-Cube/assets/52525883/09694505-d15b-4f15-8bc3-99993c772e05
+
 
 
