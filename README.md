@@ -1,4 +1,4 @@
-# 4x4x4 LED CUBE
+# LED CUBE
 
 This project is a programmable 4x4x4 LED CUBE. It is a 3-D LED display that can be programmed to display various patterns. 
 
@@ -13,7 +13,7 @@ This project is a programmable 4x4x4 LED CUBE. It is a 3-D LED display that can 
 
 
 ## Purpose
-I created this project as part of the annual science symposium in junior year of high school. I wanted to create something that would be useful in teaching Maths and Physics. After some research, I decided to create a programmable LED Cube which would combine my interest in programming with a new experience of using hardware. 
+I created this project as part of the annual science symposium in my junior year of high school. I wanted to create something that would be useful in teaching Maths and Physics. After some research, I decided to create a programmable LED Cube which would combine my interest in programming with a new experience of using hardware. 
 
 
 ## Project Overview
@@ -26,7 +26,7 @@ I created this project as part of the annual science symposium in junior year of
 
 ## Setup
 - The setting up involved starting from scratch and personally soldering each layer of the Cube. 
-- Next step involved soldering resistors and transistors to the breadbord and linking the cube structure to the breadboard.
+- Next step involved soldering resistors and transistors to the breadboard and linking the cube structure to the breadboard.
 
 
 ## Program and Methods
