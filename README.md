@@ -1,4 +1,4 @@
-# LED CUBE
+# LED Cube
 
 This project is a programmable 4x4x4 LED CUBE. It is a 3-D LED display that can be programmed to display various patterns. 
 
